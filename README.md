@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**rahafsaad/rahafsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rahaf Alshareef | iOS developer passionate about creating apps using new technologies ✨
 
-Here are some ideas to get you started:
+### About Me 👩🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 Swift Developer
+🎓 Apple Developer Academy Intern
+💻 Tech enthusiast
+
+### Skills 💪🏻
+
+Swift
+UIKit
+SwiftUI
+Git
+RESTful APIs
+
+### Get in Touch 🙋🏻‍♀️
+
+LinkedIn: https://www.linkedin.com/in/rahaf-alshareef-b165172b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+
+Twitter: https://twitter.com/l_c0de
+
+
