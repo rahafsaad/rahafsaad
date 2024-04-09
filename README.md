@@ -4,6 +4,7 @@ I'm Rahaf Alshareef | iOS developer passionate about creating apps using new tec
 
 ### About Me 👩🏻‍💻
 
+💰 Business Developer
 📱 Swift Developer
 🎓 Apple Developer Academy Intern
 💻 Tech enthusiast
