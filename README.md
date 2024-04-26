@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rahaf Alshareef | iOS developer passionate about creating apps using new technologies ✨
+I'm Rahaf  | iOS developer passionate about creating apps using new technologies ✨
 
 ### About Me 👩🏻‍💻
 
