@@ -4,7 +4,7 @@ I'm Rahaf  | iOS developer passionate about creating apps using new technologies
 
 ### About Me 👩🏻‍💻
 
-💰 Business Developer
+💰 Business Analyst 
 📱 Swift Developer
 🎓 Apple Developer Academy Intern
 💻 Tech enthusiast
