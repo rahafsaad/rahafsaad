@@ -4,17 +4,16 @@ I'm Rahaf  | iOS developer passionate about creating apps using new technologies
 
 ### About Me 👩🏻‍💻
 
-💰 Business Analyst 
-📱 Swift Developer
+
+📱 iOS Developer
 🎓 Apple Developer Academy Intern
 💻 Tech enthusiast
 
 ### Skills 💪🏻
 
 Swift
-UIKit
 SwiftUI
-Git
+
 
 
 ### Get in Touch 🙋🏻‍♀️
