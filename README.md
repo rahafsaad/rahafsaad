@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rahaf  | iOS developer passionate about creating apps using new technologies ✨
+I'm Rahaf  | iOS developer i build apps from scratch untill App Store!
 
 ### About Me 👩🏻‍💻
 
