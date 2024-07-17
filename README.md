@@ -6,7 +6,7 @@ I'm Rahaf  | iOS developer i build apps from scratch untill App Store!
 
 
 📱 iOS Developer
-🎓 Apple Developer Academy Intern
+🎓 Apple Developer Academy Alum
 💻 Tech enthusiast
 
 ### Skills 💪🏻
